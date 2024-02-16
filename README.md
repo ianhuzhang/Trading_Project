@@ -1,6 +1,6 @@
 This is a summary of my project, which implements a Pairs-Trading Mean Reversion trading strategy.
 
-Note: This is not meant to be run, but rather as a display of the code and results of this project.
+Note: This is not meant to be run, but rather as a display of the code and results.
 
 This project is based on the Mean-Reversion trading theory, that assets will typically not deviate from their long-term growth patterns. Pairs-Trading enhances this strategy, by trading the spread, or difference, between prices of two closely correlated assets. This is accomplished by taking positions in both assets, such that a return to the "expected" spread would be profitable.
 
